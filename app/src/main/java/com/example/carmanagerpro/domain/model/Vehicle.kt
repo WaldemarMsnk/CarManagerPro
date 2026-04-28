@@ -8,9 +8,9 @@ data class Vehicle(
     val licensePlate: String,
     val vin: String,
     val odometerValue: Int,
-    val fuelType: String,
+    val fuelType: FuelType,
     val enginePower: Int,
     val engineVolume: Double,
-    val brandingType: String,
-    val transmissionType: String
+    val brandingType: BrandingType,
+    val transmissionType: TransmissionType
 )
