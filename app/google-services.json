@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "266838908399",
+    "project_id": "carmanagerpro",
+    "storage_bucket": "carmanagerpro.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266838908399:android:09270aba4896ef93b0ea1a",
+        "android_client_info": {
+          "package_name": "com.example.carmanagerpro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd6jFhK-oN5zaUwhhQpmLsm-V-QxYrAL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
